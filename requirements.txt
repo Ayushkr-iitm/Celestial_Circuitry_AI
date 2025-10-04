@@ -1,0 +1,15 @@
+# CELESTIAL CIRCUITRY - MINIMAL WORKING REQUIREMENTS
+pandas
+numpy==1.23.5  # Specific version compatible with TensorFlow
+scikit-learn
+lightkurve
+astropy
+wotan
+xgboost
+tensorflow==2.12.0
+shap
+streamlit
+plotly
+fastapi
+uvicorn
+joblib
