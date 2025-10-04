@@ -47,7 +47,7 @@ A cutting-edge AI platform that combines advanced machine learning algorithms wi
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Ayushkr-iitm/Celestial_Circuitry_AI.git
-   cd celestial-circuitry-ai
+   cd Celestial_Circuitry_AI
    ```
 
 2. **Install dependencies**
@@ -198,4 +198,5 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 **Made with ❤️ for the Cosmos** 🌌
 
 *Discovering exoplanets, one light curve at a time* ✨
+
 
